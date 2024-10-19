@@ -29,14 +29,14 @@
 3. Launch the `contrashooter.cpp` file.
 
 ## Documentation
-For a detailed overview of the gameplay mechanics and features, refer to the [Documentation](./documentation/documentation.docx) in the repository.
+For a detailed overview of the gameplay mechanics and features, refer to the [Documentation](./documentation) in the repository.
 
 ## Technologies Used
 - C++
 
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/yourusername/contrashooter/issues) for more information.
+Feel free to check out the [issues page](https://github.com/miansaadtahir/contrashooter/issues) for more information.
 
 ## License
 Distributed under the MIT License. See [LICENSE](./LICENSE) for more details.
