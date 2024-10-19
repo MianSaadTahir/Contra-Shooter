@@ -26,7 +26,7 @@
    `git clone https://github.com/miansaadtahir/contrashooter.git`
 2. Navigate to the project directory:
    `cd ContraShooter`
-3. Launch the `contrashooter.cpp` file.
+3. Launch the `contrashooter.exe` file.
 
 ## Documentation
 For a detailed overview of the gameplay mechanics and features, refer to the [Documentation](./documentation) in the repository.
