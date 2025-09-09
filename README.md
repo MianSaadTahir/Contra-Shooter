@@ -11,10 +11,10 @@ A command-line interface (CLI) based shooter game developed in C++. Players enga
 - [Contributing](#contributing)
 
 ## Features
-- Combat against three distinct enemies with health systems.
-- Players and enemies have health systems that affect gameplay.
-- Players have two lives to complete the game.
-- Track player performance throughout the game.
+- Combat against three distinct enemies with health systems
+- Players and enemies have health systems that affect gameplay
+- Players have two lives to complete the game
+- Track player performance throughout the game
 
 ## Screenshots
 <img src="assets/1.png" alt="Screenshot" width="75%">
@@ -30,7 +30,8 @@ For a detailed overview of the gameplay mechanics and features, refer to the [Do
 ## Usage
 1. Clone the repository:
    `git clone https://github.com/miansaadtahir/contrashooter.git`
-2. Launch the `contrashooter.exe` file.
+2. Launch the `contrashooter.exe` file
+   
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
 Feel free to check out the [issues page](https://github.com/miansaadtahir/contrashooter/issues) for more information.
