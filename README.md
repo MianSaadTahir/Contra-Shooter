@@ -9,7 +9,6 @@
 - [Documentation](#documentation)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Enemy System**: Combat against three distinct enemies with health systems.
