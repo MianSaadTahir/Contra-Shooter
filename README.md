@@ -5,9 +5,9 @@ A command-line interface (CLI) based shooter game developed in C++. Players enga
 ## Table of Contents
 - [Features](#features)
 - [Screenshots](#screenshots)
-- [Usage](#usage)
 - [Documentation](#documentation)
 - [Technologies Used](#technologies-used)
+- [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Features
@@ -20,10 +20,6 @@ A command-line interface (CLI) based shooter game developed in C++. Players enga
 <img src="assets/1.png" alt="Screenshot" width="75%">
 <img src="assets/2.png" alt="Screenshot" width="75%">
 
-## Usage
-1. Clone the repository:
-   `git clone https://github.com/miansaadtahir/contrashooter.git`
-2. Launch the `contrashooter.exe` file.
 
 ## Documentation
 For a detailed overview of the gameplay mechanics and features, refer to the [Documentation](./documentation) in the repository.
@@ -31,6 +27,10 @@ For a detailed overview of the gameplay mechanics and features, refer to the [Do
 ## Technologies Used
 - C++
 
+## Usage
+1. Clone the repository:
+   `git clone https://github.com/miansaadtahir/contrashooter.git`
+2. Launch the `contrashooter.exe` file.
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
 Feel free to check out the [issues page](https://github.com/miansaadtahir/contrashooter/issues) for more information.
