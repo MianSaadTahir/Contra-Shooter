@@ -1,6 +1,6 @@
 # Contra Shooter
 
-**Contra Shooter** is a command-line interface (CLI) based shooter game developed in C++. Players engage in combat against three enemies, each with its own health system. The objective is to eliminate all enemies while managing limited lives, providing an engaging and strategic gameplay experience.
+A command-line interface (CLI) based shooter game developed in C++. Players engage in combat against three enemies, each with its own health system. The objective is to eliminate all enemies while managing limited lives, providing an engaging and strategic gameplay experience.
 
 ## Table of Contents
 - [Features](#features)
@@ -11,10 +11,10 @@
 - [Contributing](#contributing)
 
 ## Features
-- **Enemy System**: Combat against three distinct enemies with health systems.
-- **Health Management**: Players and enemies have health systems that affect gameplay.
-- **Lives System**: Players have two lives to complete the game.
-- **Scoreboard**: Track player performance throughout the game.
+- Combat against three distinct enemies with health systems.
+- Players and enemies have health systems that affect gameplay.
+- Players have two lives to complete the game.
+- Track player performance throughout the game.
 
 ## Screenshots
 <img src="assets/1.png" alt="Screenshot" width="75%">
@@ -23,9 +23,7 @@
 ## Usage
 1. Clone the repository:
    `git clone https://github.com/miansaadtahir/contrashooter.git`
-2. Navigate to the project directory:
-   `cd ContraShooter`
-3. Launch the `contrashooter.exe` file.
+2. Launch the `contrashooter.exe` file.
 
 ## Documentation
 For a detailed overview of the gameplay mechanics and features, refer to the [Documentation](./documentation) in the repository.
