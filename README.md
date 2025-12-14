@@ -34,7 +34,7 @@ For a detailed overview of the gameplay mechanics and features, refer to the [Do
    
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
-Feel free to check out the [issues page](https://github.com/miansaadtahir/contrashooter/issues) for more information.
+Feel free to check out the [issues page](https://github.com/miansaadtahir/contrashooter/issues).
 
 ## License
 
