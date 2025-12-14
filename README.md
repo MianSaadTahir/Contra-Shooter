@@ -9,7 +9,7 @@ A command-line interface (CLI) based shooter game developed in C++. Players enga
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
 - [Contributing](#contributing)
-
+- [License](#license)
 ## Features
 - Combat against three distinct enemies with health systems
 - Players and enemies have health systems that affect gameplay
@@ -35,3 +35,7 @@ For a detailed overview of the gameplay mechanics and features, refer to the [Do
 ## Contributing
 Contributions, issues, and feature requests are welcome!  
 Feel free to check out the [issues page](https://github.com/miansaadtahir/contrashooter/issues) for more information.
+
+## License
+
+This project is open source and available under the MIT [License](https://github.com/MianSaadTahir/Contra-Shooter/blob/main/LICENSE).
